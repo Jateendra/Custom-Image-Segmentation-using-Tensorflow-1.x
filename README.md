@@ -68,7 +68,6 @@ This section of the topic helps you to do the Image Segmentation using Tensorflo
 
 3 . Keep only file "labelmapdog.pbtxt" and remove all other files from location : models\research\object_detection\data
 
-![Screen-1](C:\Users\jatpradh\Desktop\New folder\2.png)
 
 ## Data Preparation Procedure
 
